@@ -1,0 +1,110 @@
+
+1/16/26, 09:00 - Messages and calls are end-to-end encrypted.
+⮑ Only people in this chat can read, listen to, or share them. Learn more
+
+1/16/26, 09:05 - Student: Yo bro, I need help with Python. My brain is literally buffering.
+1/16/26, 09:06 - Tutor: Lmao relax. Python isn't that scary. Even your calculator is more complicated sometimes.
+1/16/26, 09:07 - Student: Bruh, what even is Python?
+1/16/26, 09:08 - Tutor: Python is a programming language. Basically, you tell the computer what to do, and it hopefully listens. No drama.
+1/16/26, 09:09 - Student: What is a variable?
+1/16/26, 09:10 - Tutor: A variable is like a labelled box where you store data. Think of it as your brain's storage, but actually organized.
+1/16/26, 09:11 - Student: So x = 10 means x has 10?
+1/16/26, 09:12 - Tutor: Exactly bro. x is the variable and 10 is its value. Massive W.
+1/16/26, 09:13 - Student: What's a string?
+1/16/26, 09:14 - Tutor: A string is just text inside quotation marks. "Hello" is a string. Your 300 unread messages are also strings. Probably.
+1/16/26, 09:15 - Student: What is an integer?
+1/16/26, 09:16 - Tutor: An integer is a whole number without decimals. Like 10, 25 or -7. No decimal drama.
+1/16/26, 09:17 - Student: And float?
+1/16/26, 09:18 - Tutor: A float stores decimal numbers, like 3.14 or 9.8. Basically, integers got a decimal upgrade.
+1/16/26, 09:19 - Student: What is Boolean?
+1/16/26, 09:20 - Tutor: Boolean has only two values: True and False. No maybe, no situationship. Just two possibilities.
+1/16/26, 09:21 - Student: Explain lists.
+1/16/26, 09:22 - Tutor: A list stores multiple items in one place. And yes, you can change its contents. Lists are pretty chill.
+1/16/26, 09:23 - Student: What about tuples?
+1/16/26, 09:24 - Tutor: Tuples are like lists but immutable. Once created, their elements cannot be changed. They are NOT interested in changing their decisions.
+1/16/26, 09:25 - Student: Difference between list and tuple?
+1/16/26, 09:26 - Tutor: Lists are mutable, tuples are immutable. One allows changes, the other says "my mind is made up."
+1/16/26, 09:27 - Student: What is a dictionary?
+1/16/26, 09:28 - Tutor: A dictionary stores information in key-value pairs. Like a real dictionary, except Python doesn't judge your spelling.
+1/16/26, 09:29 - Student: What is a set?
+1/16/26, 09:30 - Tutor: A set stores unique elements. Duplicate values get kicked out. No duplicates allowed, bro.
+1/16/26, 09:31 - Student: Explain for loop.
+1/16/26, 09:32 - Tutor: A for loop repeats code for every item in an iterable. Imagine checking every message in your group chat without losing your mind.
+1/16/26, 09:33 - Student: What is while loop?
+1/16/26, 09:34 - Tutor: A while loop keeps running as long as its condition is True. Just make sure it eventually stops. Infinite loops are not the vibe.
+1/16/26, 09:35 - Student: What is a function?
+1/16/26, 09:36 - Tutor: A function is reusable code that performs a task. Write it once and call it whenever needed. Work smarter, not harder.
+1/16/26, 09:37 - Student: Difference between print and return?
+1/16/26, 09:38 - Tutor: Print displays something on the screen. Return sends a value back to the caller. They are NOT twins.
+1/16/26, 09:39 - Student: What are parameters?
+1/16/26, 09:40 - Tutor: Parameters are the variable names written inside a function definition. They receive values when the function is called.
+1/16/26, 09:41 - Student: And arguments?
+1/16/26, 09:42 - Tutor: Arguments are the actual values you pass into a function. Parameters receive them, arguments provide them. Simple W.
+1/16/26, 09:43 - Student: What is lambda?
+1/16/26, 09:44 - Tutor: Lambda creates a small anonymous function using one expression. Short, quick and straight to the point.
+1/16/26, 09:45 - Student: Explain inheritance.
+1/16/26, 09:46 - Tutor: Inheritance lets a child class reuse attributes and methods from a parent class. Basically, the child gets some features from the parent.
+1/16/26, 09:47 - Student: What is polymorphism?
+1/16/26, 09:48 - Tutor: Polymorphism lets different objects respond to the same method call in different ways. Same method, different behaviour. Pretty cool, ngl.
+1/16/26, 09:49 - Student: What is encapsulation?
+1/16/26, 09:50 - Tutor: Encapsulation keeps related data and methods together while controlling access to internal details. Basically, not everything needs to be public.
+1/16/26, 09:51 - Student: What is a decorator?
+1/16/26, 09:52 - Tutor: A decorator modifies or extends a function's behaviour without directly changing its original code. It's like giving a function extra abilities.
+1/16/26, 09:53 - Student: What is recursion?
+1/16/26, 09:54 - Tutor: Recursion is when a function calls itself. But it needs a base case, or your program might never stop. That's a certified L.
+1/16/26, 09:55 - Student: What is exception handling?
+1/16/26, 09:56 - Tutor: It lets your program handle errors using try and except. Because programs make mistakes too. Welcome to the club.
+
+1/16/26, 10:00 - Student: Okay bro, Python is done. Physics is next. Pray for me.
+1/16/26, 10:01 - Tutor: Nah, you're not cooked yet. Let's get into Physics.
+1/16/26, 10:02 - Student: What is Physics?
+1/16/26, 10:03 - Tutor: Physics studies matter, energy, motion and their interactions. Basically, it explains why the world behaves the way it does.
+1/16/26, 10:04 - Student: What is a physical quantity?
+1/16/26, 10:05 - Tutor: It's a measurable property that has a numerical value and a unit. Like your height or the time you wasted scrolling.
+1/16/26, 10:06 - Student: What is a scalar quantity?
+1/16/26, 10:07 - Tutor: A scalar has magnitude only, no direction. Mass, time and temperature are examples. Just the value, no directions.
+1/16/26, 10:08 - Student: What is a vector quantity?
+1/16/26, 10:09 - Tutor: A vector has both magnitude and direction. Velocity and force are examples. It comes with extra information.
+1/16/26, 10:10 - Student: Difference between distance and displacement?
+1/16/26, 10:11 - Tutor: Distance is the total path travelled. Displacement is the change in position from start to finish, including direction. They are not the same thing, bro.
+1/16/26, 10:12 - Student: What is speed?
+1/16/26, 10:13 - Tutor: Speed is distance divided by time. It tells you how fast something moves. Basically, the speedometer's entire personality.
+1/16/26, 10:14 - Student: What is velocity?
+1/16/26, 10:15 - Tutor: Velocity is displacement divided by time. Unlike speed, it has direction. Direction matters, bestie.
+1/16/26, 10:16 - Student: What is acceleration?
+1/16/26, 10:17 - Tutor: Acceleration is the rate of change of velocity with time. Basically, how quickly velocity changes.
+1/16/26, 10:18 - Student: SI unit of acceleration?
+1/16/26, 10:19 - Tutor: Metre per second squared, written as m/s². Memorize it before the exam decides to humble you.
+1/16/26, 10:20 - Student: What is force?
+1/16/26, 10:21 - Tutor: Force is a push or pull that can change an object's motion or shape. Its SI unit is Newton (N).
+1/16/26, 10:22 - Student: Explain Newton's first law.
+1/16/26, 10:23 - Tutor: An object stays at rest or moves with constant velocity unless a net external force acts on it. Objects really do resist change. That's inertia.
+1/16/26, 10:24 - Student: Newton's second law?
+1/16/26, 10:25 - Tutor: Net force equals mass multiplied by acceleration. F = ma. This formula is not going anywhere, so learn it.
+1/16/26, 10:26 - Student: What about the third law?
+1/16/26, 10:27 - Tutor: For every action, there's an equal and opposite reaction. Both forces act on different objects. Physics really said match the energy.
+1/16/26, 10:28 - Student: What is momentum?
+1/16/26, 10:29 - Tutor: Momentum is mass multiplied by velocity. More mass or more velocity means more momentum, assuming the other quantity stays constant.
+1/16/26, 10:30 - Student: What is work in Physics?
+1/16/26, 10:31 - Tutor: Work happens when a force causes displacement. If force and displacement are in the same direction, work equals force times displacement. Just pushing a wall all day doesn't guarantee Physics work.
+1/16/26, 10:32 - Student: What is kinetic energy?
+1/16/26, 10:33 - Tutor: Kinetic energy is energy due to motion. A moving car has kinetic energy. If it ain't moving, it doesn't have kinetic energy relative to that reference frame.
+1/16/26, 10:34 - Student: What is potential energy?
+1/16/26, 10:35 - Tutor: Potential energy is stored energy due to position or configuration. A book on a shelf has gravitational potential energy. It's literally waiting to fall.
+1/16/26, 10:36 - Student: What is power?
+1/16/26, 10:37 - Tutor: Power is the rate of doing work or transferring energy. Its SI unit is watt (W). Basically, how quickly the work gets done.
+1/16/26, 10:38 - Student: What is density?
+1/16/26, 10:39 - Tutor: Density is mass divided by volume. It tells you how much mass is packed into a certain space. Tiny space, lots of mass? Pretty dense.
+1/16/26, 10:40 - Student: What is pressure?
+1/16/26, 10:41 - Tutor: Pressure is force per unit area. Its SI unit is Pascal (Pa). Same force over a smaller area means greater pressure.
+1/16/26, 10:42 - Student: What is friction?
+1/16/26, 10:43 - Tutor: Friction opposes relative motion or the tendency of motion between surfaces in contact. It's the reason sliding things don't just keep going forever.
+1/16/26, 10:44 - Student: What is free fall?
+1/16/26, 10:45 - Tutor: Free fall is motion when gravity is the only force acting on an object. Ignore air resistance and objects near Earth accelerate at about 9.8 m/s².
+1/16/26, 10:46 - Student: What is the value of gravity?
+1/16/26, 10:47 - Tutor: Near Earth's surface, gravitational acceleration is approximately 9.8 m/s². Not 98, bro. Please don't add a zero.
+1/16/26, 10:48 - Student: What is energy?
+1/16/26, 10:49 - Tutor: Energy is the capacity to do work. It comes in different forms, including kinetic, potential, thermal and chemical energy.
+1/16/26, 10:50 - Student: Bro, I think I'm finally understanding Physics.
+1/16/26, 10:51 - Tutor: Huge W! Keep practising. The formulas aren't going to memorize themselves.
+1/16/26, 10:52 - Student: <Media omitted>
